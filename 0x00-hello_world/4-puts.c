@@ -1,11 +1,10 @@
 #include <stdio.h>
-
 /**
- * main - A programme that passes a string to the stdout using the puts fucn.
- * Return: 0 (Success)
- */
+* main - prints string to console using puts function
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
-puts("\"Programmimg is like building a multilingual puzzle\n");
-return (0);
+	puts("\"Programmimg is like building a multilingual puzzle");
+	return (0);
 }
