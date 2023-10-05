@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - how to pass a string to the stdout using the puts fucn.
- *
- * Return: Always 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
