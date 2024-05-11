@@ -1,2 +1,4 @@
-main.c*
+*.c
+# Ignore main.c in the src directory
+src/main.c
 
